@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DatLQ95
-- 👀 I’m interested in Infrastructures in Cloud, automation processes, Design architecture for web service.
-- 🌱 I’m currently learning tools for DevOps
-- 💞️ I’m looking to collaborate on  
+- 👀 I’m interested in Infrastructures, automation processes, computer networking and programming in general.
+- 🌱 I’m currently learning tools for DevOps.
+- 💞️ I’m looking to collaborate on programming project.
 - 📫 How to reach me: 
 -   LinkedIn:
 -   Gmail: luongquocdat.hust@gmail.com
